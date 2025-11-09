@@ -25,4 +25,5 @@ Perfect for lead generation, instant support, or contact prompts — all fully c
 ## 🧩 Installation
 
 1. Download or clone this repository.  
-2. Copy the folder to:  
+2. upload the file in wp
+3. Install it and activate it  
